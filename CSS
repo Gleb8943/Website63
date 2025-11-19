@@ -1,0 +1,35 @@
+h3{
+color:blue;
+}
+body{
+background-image:url(https://wallpapers.com/images/hd/sand-background-odzp01f13k9pi7of.jpg);  
+}
+.center{
+text-align:center;  
+}
+header{
+ color:blue;
+}
+footer{
+ color:blue;
+}
+.right{
+ text-align:right;
+}
+div{
+ background-color:orange;
+}
+p{
+ color:black;
+  font-size:21px;
+}
+h3{
+ font-family:"Nunito Sans";
+}
+p{
+ font-family:"Raleway"
+}
+
+h3{
+ text-align:center 
+}
